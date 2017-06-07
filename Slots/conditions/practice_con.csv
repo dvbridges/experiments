@@ -1,0 +1,7 @@
+Condition,CB,Remainder,Left,Right
+Near,1,9,3,5
+Near,2,10,5,4
+Loss,1,8,4,7
+Loss,0,11,7,6
+Win,0,10,4,6
+Win,0,12,6,6
